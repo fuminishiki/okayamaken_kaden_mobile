@@ -45,7 +45,7 @@ m
 folium.Marker(location=[34.7426114,134.1846803],popup='エディオン 備前店　　　　　　　　',icon=folium.Icon(color="blue")).add_to(m)
 m
 
-folium.Marker(location=[34.6383528,133.9051328],popup='ベスト電器岡山本店　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
+folium.Marker(location=[34.6383528,133.9051328],popup='ベスト電器 岡山本店　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
 folium.Marker(location=[34.7897131,134.0115197],popup='ヤマダデンキ テックランド赤磐店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
