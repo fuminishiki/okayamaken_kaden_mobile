@@ -45,9 +45,6 @@ m
 folium.Marker(location=[34.7426114,134.1846803],popup='エディオン 備前店　　　　　　　　',icon=folium.Icon(color="blue")).add_to(m)
 m
 
-folium.Marker(location=[34.6383528,133.9051328],popup='ベスト電器 岡山本店　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[34.7897131,134.0115197],popup='ヤマダデンキ テックランド赤磐店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
@@ -124,6 +121,9 @@ folium.Marker(location=[34.6020191,133.7458138],popup='イオンモバイル 倉
 m
 
 folium.Marker(location=[35.0649040,134.0457948],popup='イオンモバイル 津山店　　　　　　　　　　',icon=folium.Icon(color="purple")).add_to(m)
+m
+
+folium.Marker(location=[34.6383528,133.9051328],popup='ベスト電器 岡山本店　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
 folium.Marker(location=[34.6370953,133.9086896],popup='PC DEPOT 岡山・下中野店　　　　　　　　　　　　',icon=folium.Icon(color="beige")).add_to(m)
