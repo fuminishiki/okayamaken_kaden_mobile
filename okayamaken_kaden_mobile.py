@@ -45,12 +45,6 @@ m
 folium.Marker(location=[34.7426114,134.1846803],popup='エディオン 備前店　　　　　　　　',icon=folium.Icon(color="blue")).add_to(m)
 m
 
-folium.Marker(location=[34.7897131,134.0115197],popup='ヤマダデンキ テックランド赤磐店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[34.5885438,133.444506],popup='ヤマダデンキ テックランド井原店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[34.6306028,133.8939958],popup='ヤマダデンキ テックランド岡山本店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
@@ -63,31 +57,13 @@ m
 folium.Marker(location=[34.4621208,133.8064526],popup='ヤマダデンキ テックランド児島店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[34.6636708,134.0897586],popup='ヤマダデンキ テックランド瀬戸内店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[34.6693181,133.751924],popup='ヤマダデンキ テックランド総社店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[34.7847987,133.6105182],popup='ヤマダデンキ テックランド高梁店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[34.4948112,133.9547056],popup='ヤマダデンキ テックランド玉野店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[34.9643447,133.4726855],popup='ヤマダデンキ テックランド新見店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
 folium.Marker(location=[35.0250915,134.1624867],popup='ヤマダデンキ テックランド美作店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
 folium.Marker(location=[34.6311274,133.932606],popup='ヤマダデンキ テックランドNew岡南店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[34.5285677,133.593859],popup='ヤマダデンキ ヤマダアウトレット鴨方店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[35.0655079,134.0494733],popup='ヤマダデンキ ヤマダアウトレット津山店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
 folium.Marker(location=[34.6772389,133.9823469],popup='YAMADA web.com東岡山店　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
